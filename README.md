@@ -1,5 +1,5 @@
 # Desafio de Projecto
-## Sejam todos bem-vindos ao meu repositório :sunglasses: 
+## Sejam todos bem-vindos ao meu repositório 😎👍
 
 Nesse repositório apresento algum conteúdo em forma de lista que tenho aprendido aprendido. 
 
